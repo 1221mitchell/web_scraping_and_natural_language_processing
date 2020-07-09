@@ -20,7 +20,7 @@ To help you get started, we have a primer video on how to use the API: https://y
 ### Requirements
 
 - Gather and prepare your data using the `requests` library.
-- **Create and compare two models**. One of these must be a Bayes classifier, however the other can be a classifier of your choosing: logistic regression, KNN, SVM, etc.
+- **Create and compare two models**. One of these must be a Random Forest classifier, however the other can be a classifier of your choosing: logistic regression, KNN, SVM, etc.
 - A Jupyter Notebook with your analysis for a peer audience of data scientists.
 - An executive summary of your results.
 - A short presentation outlining your process and findings for a semi-technical audience.
